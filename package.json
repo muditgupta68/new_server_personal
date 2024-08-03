@@ -9,10 +9,10 @@
   "author": "mudit",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
+    "express": "^4.19.2",
     "mongoose": "^7.0.4",
     "netlify-cli": "^12.7.2",
     "netlify-lambda": "^2.0.15",
