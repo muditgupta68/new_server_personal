@@ -1,0 +1,6 @@
+[build]
+  functions = "functions" # Directory for serverless functions
+
+[context.production.environment]
+  NODE_VERSION = "18"         # Specify Node.js version (adjust as needed)
+  MONGO_URI = "mongodb+srv://muditgupta68:Mudit1086@cluster0.n8tfkhh.mongodb.net/personal_portfolio?retryWrites=true&w=majority"
